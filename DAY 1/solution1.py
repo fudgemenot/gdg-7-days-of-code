@@ -7,5 +7,5 @@ while ans=="y" or ans=="Y":
         print("This function do not support alphanumeric/numeric inputs")
     ans= input("To enter more word press y or Y,to exit press any other key:")
 
-
+#time: around 4-5 minutes which includes testing and debugging#
 
